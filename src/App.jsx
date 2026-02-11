@@ -31,7 +31,7 @@ function App() {
       </div>
       <div className="card" style={{ textAlign: 'left', fontSize: '0.9em' }}>
         <h3>Environment Variables</h3>
-        <p><strong>My VITE_APP_TITLE:</strong> {appTitle}</p>
+        <p><strong>My Trial VITE_APP_TITLE:</strong> {appTitle}</p>
         <p><strong>VITE_API_URL:</strong> {apiUrl}</p>
         <p><strong>MODE:</strong> {mode}</p>
       </div>
