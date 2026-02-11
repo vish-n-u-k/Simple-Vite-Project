@@ -31,12 +31,12 @@ function App() {
       </div>
       <div className="card" style={{ textAlign: 'left', fontSize: '0.9em' }}>
         <h3>Environment Variables</h3>
-        <p><strong>My VITE_APP_TITLE:</strong> {appTitle}</p>
+        <p><strong>My Trial VITE_APP_TITLE:</strong> {appTitle}</p>
         <p><strong>VITE_API_URL:</strong> {apiUrl}</p>
         <p><strong>MODE:</strong> {mode}</p>
       </div>
       <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
+        Click on the checks button to ensure checker is working and environment variables are properly loaded.
       </p>
     </>
   )
