@@ -36,7 +36,7 @@ function App() {
         <p><strong>MODE:</strong> {mode}</p>
       </div>
       <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
+        Click on the checks button to ensure checker is working and environment variables are properly loaded.
       </p>
     </>
   )
